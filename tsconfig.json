@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"lib": ["DOM", "ES2022"],
+		"noEmit": true,
+		"checkJs": true,
+		"allowJs": true,
+		"strict": true,
+		"noUnusedLocals": false,
+		"noUnusedParameters": false,
+		"noUncheckedIndexedAccess": false,
+    "target": "ES2022"
+	}
+}
