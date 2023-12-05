@@ -4,10 +4,14 @@ import day1_input from './inputs/day1';
 import * as day2 from './days/day2';
 import day2_input from './inputs/day2';
 
+import * as day3 from './days/day3';
+import day3_input from './inputs/day3';
+
 let day_count = 0;
 
 test(day1, day1_input)
 test(day2, day2_input)
+test(day3, day3_input)
 
 
 function test(
